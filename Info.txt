@@ -1,0 +1,10 @@
+Crafted By Yusuf "Perpus VSGA"
+
+Requirement :
+- PHP 7.4
+- SQL_MODE without "ONLY_GROUP_BY"
+- Internet Connection
+
+Auth Petugas :
+Username : admin
+Password : 123
